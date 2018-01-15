@@ -23,7 +23,7 @@ import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 import javafx.stage.WindowEvent;
 
-public class Main extends Application {
+public class StageMain extends Application {
     StringProperty title = new SimpleStringProperty();
     Text textStageX;
     Text textStageY;
