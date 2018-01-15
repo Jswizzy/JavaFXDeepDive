@@ -1,4 +1,4 @@
-package sample;
+package sample.eager;
 
 public class JavaFXBeanMainExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sample;
+package sample.eager;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.ObjectProperty;

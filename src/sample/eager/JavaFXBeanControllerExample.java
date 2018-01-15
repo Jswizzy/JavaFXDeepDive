@@ -1,4 +1,4 @@
-package sample;
+package sample.eager;
 
 import javafx.scene.paint.Color;
 
